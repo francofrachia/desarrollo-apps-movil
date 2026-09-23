@@ -1,0 +1,9 @@
+{
+  "name": "agropulse-worker",
+  "type": "module",
+  "dependencies": {
+    "kafkajs": "^2.2.4",
+    "@supabase/supabase-js": "^2.40.0",
+    "dotenv": "^16.4.5"
+  }
+}
